@@ -2,7 +2,7 @@ Hi👋,
 <table width="100%">
   <tr>
     <td align="left">
-      <strong>Software Developer.</strong> Building, breaking, and solving problems.
+      <strong>Software Developer x Music✨.</strong> Building, breaking, and solving problems.
     </td>
     <td align="right">
       <a href="https://codewithpabitradev.vercel.app">Portfolio</a> ·
