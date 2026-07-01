@@ -42,7 +42,7 @@ Currently building **Octopus**, **NexoraUI**, **AutoDoc.ai**.
   <img alt="Docker" src="https://img.shields.io/badge/Docker-161B22?style=flat&logo=docker&logoColor=2496ED" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-161B22?style=flat&logo=mongodb&logoColor=4285F4" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-161B22?style=flat&logo=linux&logoColor=FCC624" />
-  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-161B22?style=flat&logo=openai&logoColor=FFFFFF" />
+  <img alt="Codex" src="https://img.shields.io/badge/CodeX-161B22?style=flat&logo=codex&logoColor=FFFFFF" />
   <img alt="Gemini" src="https://img.shields.io/badge/Gemini-161B22?style=flat&logo=googlegemini&logoColor=8E75B2" />
   <img alt="Claude" src="https://img.shields.io/badge/Claude-161B22?style=flat&logo=anthropic&logoColor=D97757" />
   <img alt="Git" src="https://img.shields.io/badge/Git-161B22?style=flat&logo=git&logoColor=D97757" />
