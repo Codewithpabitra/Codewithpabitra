@@ -13,6 +13,12 @@ Hi👋,
   </tr>
 </table>
 
+<p align="center">
+  <a href="./demo.gif">
+    <img src="./demo.gif" width="100%" alt="Pabitra's Anime Demo">
+  </a>
+</p>
+
 I build **modern web applications, AI coding agents, open-source tools, and mobile applications.**
 
 ▸ Building **[Octopus](https://www.npmjs.com/package/octopus-agent)** · v1.4.0 launched · 2k downloads on npm<br/>
