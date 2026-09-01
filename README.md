@@ -24,7 +24,7 @@ I build **modern web applications, AI coding agents, open-source tools, and mobi
 ▸ Building **[Octopus](https://www.npmjs.com/package/octopus-agent)** · v1.4.0 launched · 2k downloads on npm<br/>
 ▸ **GSSoC’26** **[GSSoC](https://gssoc.girlscript.org/)** · Contributing to projects on open source / AI agents track<br/>
 ▸ **SSoC’26** **[SSoC](https://github.com/kde)** · Contributing to on open source projects<br/>
-▸ **ECSOC** **[Elite Coders](https://github.com/Garudex-Labs/caracal)** · pre-execution authority for AI agents<br/>
+▸ **ECSOC** **[Elite Coders](https://github.com/Garudex-Labs/caracal)** · Submitted fusemeld which let developers know duplicate issues and make the process easy<br/>
 ▸ **Apertre 3.0** **[Apertre](https://apertre.resourcio.in/)** · Contributed to AstraguardAI / React Box Calender and few open source projects<br/>
 ▸ **[merged OSS PRs](https://github.com/search?q=author%3ACodewithpabitra+is%3Apr+is%3Amerged&type=pullrequests)** across open-source projects<br/>
 
