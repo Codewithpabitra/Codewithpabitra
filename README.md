@@ -14,8 +14,14 @@ Hi👋,
 </table>
 
 <p align="center">
-  <a href="./demo.gif">
-    <img src="./demo.gif" width="100%" alt="Pabitra's Anime Demo">
+  <a href="./1356747.jpeg">
+    <img 
+      src="./1356747.jpeg" 
+      width="1600px" 
+      height="500px"
+      style="object-fit: cover;"
+      alt="Pabitra's Car Demo"
+    >
   </a>
 </p>
 
