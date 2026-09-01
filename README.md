@@ -17,9 +17,7 @@ Hi👋,
   <a href="./1356747.jpeg">
     <img 
       src="./1356747.jpeg" 
-      width="1600px" 
-      height="500px"
-      style="object-fit: cover;"
+      width="100%" 
       alt="Pabitra's Car Demo"
     >
   </a>
